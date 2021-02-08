@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+大家好，很高兴认识大家
+我叫陈超胜，来自安徽阜阳
+我是一名计算机小白，只会一点python
+我希望拥有一个美好的大学生活
